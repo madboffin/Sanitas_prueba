@@ -1,0 +1,12 @@
+name: sanitas_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - spacy
