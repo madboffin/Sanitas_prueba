@@ -1,2 +1,2 @@
-.ipynb_checkpoints/**
-NLP prueba 1/**
+.ipynb_checkpoints/
+NLP prueba 1/
